@@ -1,0 +1,72 @@
+[submodule "company-mode"]
+	path = packages/company-mode
+	url = https://github.com/company-mode/company-mode.git
+[submodule "f.el"]
+	path = packages/f.el
+	url = https://github.com/rejeep/f.el.git
+[submodule "hydra"]
+	path = packages/hydra
+	url = https://github.com/abo-abo/hydra.git
+[submodule "tide"]
+	path = packages/tide
+	url = https://github.com/ananthakumaran/tide.git
+[submodule "compat.el"]
+	path = packages/compat.el
+	url = https://github.com/phikal/compat.el.git
+[submodule "flycheck"]
+	path = packages/flycheck
+	url = https://github.com/flycheck/flycheck.git
+[submodule "lsp-mode"]
+	path = packages/lsp-mode
+	url = https://github.com/emacs-lsp/lsp-mode.git
+[submodule "paredit"]
+	path = packages/paredit
+	url = https://github.com/emacsmirror/paredit.git
+[submodule "transient"]
+	path = packages/transient
+	url = https://github.com/magit/transient.git
+[submodule "dash.el"]
+	path = packages/dash.el
+	url = https://github.com/magnars/dash.el.git
+[submodule "geiser"]
+	path = packages/geiser
+	url = https://gitlab.com/emacs-geiser/geiser.git
+[submodule "lsp-ui"]
+	path = packages/lsp-ui
+	url = https://github.com/emacs-lsp/lsp-ui.git
+[submodule "markdown-mode"]
+	path = packages/markdown-mode
+	url = https://github.com/jrblevin/markdown-mode.git
+[submodule "rainbow-delimiters"]
+	path = packages/rainbow-delimiters
+	url = https://github.com/Fanael/rainbow-delimiters.git
+[submodule "typescript.el"]
+	path = packages/typescript.el
+	url = https://github.com/emacs-typescript/typescript.el.git
+[submodule "deno-mode"]
+	path = packages/deno-mode
+	url = https://notabug.org/NalinRanjan/deno-mode.git
+[submodule "chez"]
+	path = packages/chez
+	url = https://gitlab.com/emacs-geiser/chez.git
+[submodule "magit"]
+	path = packages/magit
+	url = https://github.com/magit/magit.git
+[submodule "s.el"]
+	path = packages/s.el
+	url = https://github.com/magnars/s.el.git
+[submodule "web-mode"]
+	path = packages/web-mode
+	url = https://github.com/fxbois/web-mode.git
+[submodule "ht.el"]
+	path = packages/ht.el
+	url = https://github.com/Wilfred/ht.el.git
+[submodule "spinner.el"]
+	path = packages/spinner.el
+	url = https://github.com/Malabarba/spinner.el.git
+[submodule "with-editor"]
+	path = packages/with-editor
+	url = https://github.com/magit/with-editor.git
+[submodule "npm-mode"]
+	path = packages/npm-mode
+	url = https://github.com/mojochao/npm-mode.git
